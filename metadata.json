@@ -1,0 +1,7 @@
+{
+  "name": "AeroGuard AI - DJI Assistant",
+  "description": "Professional drone flight assistant with monochromatic design, real-time weather analysis, and AI-powered safety checks.",
+  "requestFramePermissions": [
+    "geolocation"
+  ]
+}
