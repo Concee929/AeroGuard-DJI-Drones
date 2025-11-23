@@ -1,0 +1,12 @@
+{
+  "background_color": "#ffffff",
+  "dir": "ltr",
+  "display": "standalone",
+  "name": "concee929.github",
+  "orientation": "any",
+  "scope": "/",
+  "short_name": "concee929.github",
+  "start_url": "/",
+  "theme_color": "#ffffff",
+  "description": "meteo per droni"
+}
